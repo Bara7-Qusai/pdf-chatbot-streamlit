@@ -1,0 +1,1 @@
+python -m streamlit run langchain_simple_pdf_chat_v2.py
