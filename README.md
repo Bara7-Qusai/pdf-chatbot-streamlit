@@ -24,7 +24,7 @@ Built using:
 ## 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/username/pdf-chatbot-streamlit.git
+git clone https://github.com/Bara7-Qusai/pdf-chatbot-streamlit.git
 cd pdf-chatbot-streamlit
 ````
 
